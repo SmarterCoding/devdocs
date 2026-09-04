@@ -6,7 +6,6 @@ import {
   Check,
   Package,
   Terminal,
-  Monitor,
   Sparkles,
   ShieldCheck,
 } from "lucide-react";
